@@ -1,1 +1,3 @@
 # amazon_clone
+
+AMAZON CLONE USING HTML AND CSS
